@@ -1,0 +1,6 @@
+framework module ESPublicKit {
+  umbrella header "ESPublicKit.h"
+
+  export *
+  module * { export * }
+}
